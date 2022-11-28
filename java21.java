@@ -15,5 +15,6 @@ public class java21 {
 
         for(int i=1; i<=b; i++) c*=a;
         System.out.println(c);
+        input.close();
     }
 }
